@@ -1,6 +1,6 @@
 # Star Wars Challenge
 
-The world of Star Wars is filled with a diverse cast of characters, from Human to Wookie. Thanks to [SWAPI](https://swapi.dev/) we have a full list of people and all the details a budding Star Wars enthusiast could hope to learn. In this challenge, you will come up with a directory of all the people available in the API with as much detail as you see fit. There are no design constraints but I encourage you to follow your instincts when it comes to best practices when it comes to the web. It is up to you on how you'd like to organize the information and how your users can navigate the experience you come up to.
+The world of Star Wars is filled with a diverse cast of characters, from Human to Wookie. Thanks to [SWAPI](https://swapi.dev/) we have a full list of people and all the details a budding Star Wars enthusiast could hope to learn. In this challenge, you will come up with a directory of all the people available in the API with as much detail as you see fit. There are no design constraints but I encourage you to follow your instincts when it comes to best practices when it comes to the web. It is up to you on how you'd like to organize the information and how your users can navigate the experience you come up with.
 
 <br>
 <br>
