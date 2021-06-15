@@ -5,7 +5,7 @@ The world of Star Wars is filled with a diverse cast of characters, from Human t
 <br>
 <br>
 
-## Minium Tech Stack Requirements
+## Minimum tech stack requirements
 1. React
 
 <br>
